@@ -1,0 +1,12 @@
+Flask
+mysql-connector-python
+pandas
+opencv-python
+ultralytics
+easyocr
+flask-cors
+python-dotenv
+openpyxl
+dash
+dash-bootstrap-components
+plotly
