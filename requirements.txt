@@ -10,3 +10,8 @@ openpyxl
 dash
 dash-bootstrap-components
 plotly
+streamlit
+pdf2image
+ultralytics
+easyocr
+opencv-python-headless
